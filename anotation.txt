@@ -1,0 +1,13 @@
+LIBS: 
+
+TSX: ela compila a linguagem typescript para ser interpretada e executado em real time pelo node
+ex start: "dev": "tsx watch src/http/server.ts"
+
+Fastify: o framework NodeJS rápido e seguro
+link:
+
+
+
+## COMANDS
+npx prisma migrate dev = gerar as novas relacaos e dados da tabela
+npx prisma studio = ver interface do prisma;
